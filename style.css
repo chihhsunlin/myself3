@@ -246,6 +246,19 @@ a {
     margin-bottom: 40px;
   }
 }
+.experience .paper-wrapper {
+  width: 90%;
+  float: left;
+  text-align: left;
+  padding-right: 5%;
+  margin-bottom: 60px;
+}
+@media (max-width: 450px) {
+  .experience .paper-wrapper {
+    width: 100%;
+    margin-bottom: 40px;
+  }
+}
 .experience .experience-title {
   color: white;
   margin-bottom: 15px;
